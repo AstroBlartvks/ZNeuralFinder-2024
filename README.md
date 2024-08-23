@@ -16,3 +16,7 @@ It really helps:
 ![image](https://github.com/user-attachments/assets/b9e53285-fda4-40ff-8c54-7fb242eae76f)
 ![image](https://github.com/user-attachments/assets/ccaf393f-c88f-4db3-b75e-cae1a574c1d0)
 ![image](https://github.com/user-attachments/assets/d249f835-8ebe-489e-ac9f-b868ba0fd0ef)
+
+
+I won't give anyone a dataset
+Unless of course I get paid well :)
