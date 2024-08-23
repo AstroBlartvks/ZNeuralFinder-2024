@@ -1,0 +1,9 @@
+ROFLS:
+https://developer.nvidia.com/cuda-11-8-0-download-archive
+yolo task=detect mode=train model=D:/projects/NowProjects/FindPlayer/models/yolov8.pt imgsz=640 data=dataset/data.yaml epochs=10 batch=8 name=yolov8s_40e
+
+yolo task=detect mode=train model=D:/projects/NowProjects/FindPlayer/models/Nano/yolov8n.pt imgsz=640 data=dataset/data.yaml epochs=100 batch=8 name=nano_1_100e
+
+yolo task=detect mode=val model=D:/projects/NowProjects/FindPlayer/models/yolov8.pt imgsz=640 data=dataset/data.yaml
+
+yolo task=detect mode=predict model=D:/projects/NowProjects/FindPlayer/models/yolov8s.pt show=True source=D:/projects/NowProjects/FindPlayer/detect/1.mp4 imgsz=640
